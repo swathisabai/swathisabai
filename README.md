@@ -1,20 +1,31 @@
-# Internal Tools - Microsoft Power Apps
+## Hi, I'm Jayaswathi K
 
-## Overview
-Custom-built internal applications for Data Engineers Hub using Microsoft Power Platform.
+💻 Senior Data Engineer & Data Analyst
 
-## Technologies
-- Microsoft Power Apps
-- SharePoint
-- Excel Power Query
+I design scalable data pipelines and craft analytical dashboards to turn raw data into actionable insights.
+Experienced in SQL, Python, Power BI, Spark (Scala), Databricks, and PostgreSQL, with 4 + years of professional experience
 
-## Responsibilities
-- Designed and developed apps based on internal requirements.
-- Managed enhancements and defect fixes.
-- Handled large datasets stored in SharePoint.
+## What I Do
 
-## Duration
-July 2021 – March 2023
+Build data ingestion & transformation pipelines using Spark & Databricks
+Develop automated dashboards in Power BI & Excel Power Query
+Work with ETL tools & cloud data platforms (ADF, Snowflake)
+Translate complex data into clear, data-driven stories for business teams
 
-## Role
-App Developer at Mphasis Ltd
+## Tech Stack
+
+**Languages:** SQL | Python | Scala  
+**Tools & Platforms:** Spark | Databricks | PostgreSQL | Power BI | Excel | Power Apps | Snowflake | ADF  
+**Libraries:** Pandas | NumPy  
+
+---
+
+## Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Freshco HyperMarket Sales Analysis** | Sales trend analysis & forecasting dashboards | SQL  • Power BI |
+| **Sales Dashboard Automation** | Automated Excel dashboards reducing manual work by 80% | Excel • Power Query |
+| **Retail Sales Data Analysis** | Cleaned & analyzed large CSV sales datasets | Python • Pandas • NumPy |
+| **CN DataHub Pipeline** | Simulated Spark pipeline for streaming railway data | Spark • Databricks • PostgreSQL |
+| **App Building with PowerApps** | Developed Microdoft App  | PowerAppsd • Sharepoint • PowerQuery |
