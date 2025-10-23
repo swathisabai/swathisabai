@@ -29,3 +29,11 @@ Translate complex data into clear, data-driven stories for business teams
 | **Retail Sales Data Analysis** | Cleaned & analyzed large CSV sales datasets | Python • Pandas • NumPy |
 | **CN DataHub Pipeline** | Simulated Spark pipeline for streaming railway data | Spark • Databricks • PostgreSQL |
 | **App Building with PowerApps** | Developed Microdoft App  | PowerAppsd • Sharepoint • PowerQuery |
+
+
+## swathisabai_certification
+
+### Certified Data Anaylyst from Skillovilla 
+nnumber - 75E00NJL
+
+link - https://www.skillovilla.com/certificate/75E00NJL
