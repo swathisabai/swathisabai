@@ -31,7 +31,7 @@ Translate complex data into clear, data-driven stories for business teams
 | **App Building with PowerApps** | Developed Microdoft App  | PowerAppsd • Sharepoint • PowerQuery |
 
 
-## swathisabai_certification
+## Certification
 
 ### Certified Data Anaylyst from Skillovilla 
 nnumber - 75E00NJL
